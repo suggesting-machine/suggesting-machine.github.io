@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Suggesting Machine
 ---
-# Thingking Machine
+# Suggesting Machine
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Suggesting-Machine (meta)](https://suggesting-machine.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Suggesting-Machine (gemini)](https://suggesting-machine.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Suggesting-Machine (geminit)](https://suggesting-machine.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Suggesting-Machine (openai)](https://suggesting-machine.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Suggesting-Machine (openaic)](https://suggesting-machine.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Suggesting-Machine (oaio)](https://suggesting-machine.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Suggesting-Machine (grok)](https://suggesting-machine.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Suggesting-Machine (grokf)](https://suggesting-machine.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Suggesting-Machine (grokc)](https://suggesting-machine.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Suggesting-Machine (fireworks)](https://suggesting-machine.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Suggesting-Machine (fireworksr)](https://suggesting-machine.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Suggesting-Machine (fireworkc)](https://suggesting-machine.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Suggesting-Machine (depsek)](https://suggesting-machine.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Suggesting-Machine (depsekc)](https://suggesting-machine.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Suggesting-Machine (depsekr)](https://suggesting-machine.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Suggesting-Machine (depsekrp)](https://suggesting-machine.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Suggesting-Machine is just one of participants of the [Multilogue](multilogue)
